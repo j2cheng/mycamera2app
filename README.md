@@ -13,3 +13,4 @@ Android Camera2 API Example Tutorial
 
 [ANDROID CAMERA2 API EXAMPLE TUTORIAL](https://inducesmile.com/android/android-camera2-api-example-tutorial/)
 
+readme chenges
